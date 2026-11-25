@@ -1,0 +1,5 @@
+O que é fatiamento (slicing)?
+
+    O fatiamento acontece quando um objeto de uma classe derivada 
+    é copiado por valor para um objeto da classe base, perdendo 
+    a parte específica da classe derivada.

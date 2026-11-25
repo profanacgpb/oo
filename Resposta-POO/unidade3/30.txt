@@ -1,0 +1,4 @@
+O que é uma classe abstrata?
+
+    Uma classe abstrata é uma classe que possui pelo menos um método virtual puro que ainda 
+    não possui uma implementação final concreta para aquela classe.

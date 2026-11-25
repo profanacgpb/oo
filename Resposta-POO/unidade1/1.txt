@@ -1,0 +1,6 @@
+1. Qual é a diferença entre classe e objeto?
+
+    Uma classe é um modelo que define as características e os comportamentos de alguma coisa.
+    
+    Um objeto é algo criado a partir desse modelo.
+

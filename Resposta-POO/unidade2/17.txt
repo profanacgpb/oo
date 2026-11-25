@@ -1,0 +1,4 @@
+O que é uma invariante de classe?
+
+    Uma invariante é uma condição que deve permanecer verdadeira durante 
+    o funcionamento válido de um objeto.

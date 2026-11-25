@@ -1,0 +1,4 @@
+O que é RAII?
+
+    RAII significa Resource Acquisition Is Initialization, 
+    ou aquisição de recursos é inicialização.

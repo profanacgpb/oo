@@ -1,0 +1,6 @@
+3. Para que servem o construtor e o destrutor?
+
+    O construtor é executado quando criamos um objeto e serve para inicializar seus atributos.
+
+    O destrutor é executado quando o objeto é destruído e pode liberar recursos utilizados por ele, 
+    como arquivos e memória.

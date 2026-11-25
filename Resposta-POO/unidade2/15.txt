@@ -1,0 +1,4 @@
+Por que é perigoso deixar atributos public?
+
+    Quando um atributo é declarado como public, qualquer parte do programa pode acessar e 
+    modificar seu valor diretamente,inclusive atribuindo valores inválidos.

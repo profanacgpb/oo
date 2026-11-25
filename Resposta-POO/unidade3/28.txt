@@ -1,0 +1,7 @@
+Para que servem virtual e override?
+
+    A palavra virtual permite que um método seja sobrescrito pelas classes derivadas e que a implementação 
+    correta seja escolhida de acordo com o tipo real do objeto.
+
+    A palavra override informa ao compilador que estamos 
+    sobrescrevendo um método virtual da classe base.

@@ -1,0 +1,4 @@
+Quando preferir composição em vez de herança?
+
+    Devemos preferir composição quando uma classe precisa utilizar funcionalidades de outra, 
+    mas não representa uma especialização dela.

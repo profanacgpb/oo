@@ -1,0 +1,5 @@
+2. O que são atributos e métodos?
+
+    Atributos são as informações que um objeto possui.
+    
+    Métodos são as ações que ele pode executar.

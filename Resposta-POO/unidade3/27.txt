@@ -1,0 +1,7 @@
+Diferencie sobrecarga (overload) e sobrescrita (override)?
+
+    Sobrecarga (overload) acontece quando temos métodos ou funções 
+    com o mesmo nome, mas com parâmetros diferentes.
+
+    Sobrescrita (override) acontece quando uma classe derivada redefine o 
+    comportamento de um método virtual da classe base.

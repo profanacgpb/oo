@@ -1,0 +1,6 @@
+Por que evitar using namespace std em arquivos .h?
+
+    Quando colocamos using namespace std; em um arquivo de cabeçalho, 
+    todos os arquivos que o incluem passam a receber essa diretiva.
+
+    Isso pode provocar conflitos entre nomes de funções, classes e variáveis.

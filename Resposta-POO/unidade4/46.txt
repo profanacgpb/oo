@@ -1,0 +1,4 @@
+O que é refatoração?
+
+    Refatoração é o processo de melhorar a estrutura interna 
+    de um código sem modificar seu comportamento observável.

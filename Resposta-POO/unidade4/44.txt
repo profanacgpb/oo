@@ -1,0 +1,6 @@
+Por que passar string por const& costuma ser melhor que por valor?
+
+    Quando passamos uma string por valor, normalmente criamos uma cópia dela.
+
+    Quando passamos por referência constante, 
+    evitamos essa cópia e impedimos alterações por meio da referência.

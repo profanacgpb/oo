@@ -1,0 +1,5 @@
+4. Qual a diferença entre . e ->?
+
+    O operador . acessa membros diretamente por meio de um objeto.
+    
+    O operador -> acessa membros por meio de um ponteiro para um objeto.

@@ -1,0 +1,4 @@
+O que acontece quando o destrutor da classe base não é virtual?
+
+    Quando deletamos um objeto derivado por meio de um ponteiro da classe base, 
+    e essa classe não possui um destrutor virtual, ocorre comportamento indefinido.

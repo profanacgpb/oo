@@ -1,0 +1,4 @@
+O que é um número mágico?
+
+    Um número mágico (magic number) é um valor numérico colocado 
+    diretamente no código sem uma identificação clara de seu significado.

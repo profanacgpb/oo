@@ -1,0 +1,3 @@
+5. O que significa const no final de um método?
+
+    Significa que o método não pode modificar os atributos não mutáveis do objeto.

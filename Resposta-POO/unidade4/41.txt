@@ -1,0 +1,5 @@
+Cite três características de um bom nome de variável, função e classe?
+
+    Descritivo: representar claramente sua finalidade.
+    Legível: permitir que outros programadores entendam seu significado.
+    Consistente: seguir um padrão de nomenclatura ao longo do projeto.

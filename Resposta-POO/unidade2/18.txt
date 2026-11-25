@@ -1,0 +1,4 @@
+Qual a função da guarda de inclusão?
+
+    A guarda de inclusão impede que o conteúdo de um arquivo .h 
+    seja processado mais de uma vez na mesma unidade de compilação, evitando erros de redefinição.

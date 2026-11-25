@@ -1,0 +1,6 @@
+Diferencie private, protected e public?
+    private: protege os dados contra acessos externos diretos.
+
+    protected: permite o acesso pela própria classe e pelas classes derivadas.
+
+    public: permite o acesso externo.

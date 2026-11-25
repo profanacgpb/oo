@@ -1,0 +1,5 @@
+Diferencie composição de herança?
+
+    Na composição, uma classe contém objetos de outra classe. 
+    
+    Na herança pública, uma classe derivada representa uma especialização da classe base.
